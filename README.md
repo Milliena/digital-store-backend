@@ -37,13 +37,13 @@ A API possui validação dos dados e tratamento de erros HTTP, incluindo 400 par
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Milliena/digital-store-backend.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd backend
+cd digital-store-backend
 ```
 
 Instale as dependências:
