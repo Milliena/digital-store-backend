@@ -129,8 +129,9 @@ backend/
 
 **Observação:** o arquivo `.env` e o banco de dados SQLite local não são enviados ao GitHub. O banco pode ser criado usando as migrações do Prisma.
 
-## Autor
+## Integrantes do grupo
 
-Camile Araújo Alexandre
+- Camile Araújo Alexandre
+- Jamyle Pereira da Silva
 
 Projeto desenvolvido para a formação em desenvolvimento Back-end do Geração Tech.
